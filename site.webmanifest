@@ -1,0 +1,20 @@
+{
+  "name": "Folsom Express Plumbing",
+  "short_name": "Folsom Express",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F2ECDD",
+  "theme_color": "#2F4A3C",
+  "icons": [
+    {
+      "src": "/assets/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
